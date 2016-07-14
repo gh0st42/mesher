@@ -23,7 +23,8 @@ or
 
 ```
 $ go build mesher
-$ ./mesher```
+$ ./mesher
+```
 
 or 
 
